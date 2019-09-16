@@ -1,0 +1,10 @@
+   for loop:
+            for (initialization;condition;iterator){}
+
+
+            name Shawn
+            age 38
+            tall
+            leng
+            high
+            strength: there are many of 
